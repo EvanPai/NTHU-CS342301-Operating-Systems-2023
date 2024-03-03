@@ -39,3 +39,7 @@ In the NachOS-4.0_MP4_index, the bonus below were implemented.
 - Multi-level header size.
   - Show that smaller file can have smaller header size.
   - Implement at least 3 different size of headers for different size of files.
+
+
+## Grade
+A+ 1/130
