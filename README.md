@@ -40,7 +40,7 @@ In the NachOS-4.0_MP4_index, the bonus below were implemented.
   - Show that smaller file can have smaller header size.
   - Implement at least 3 different size of headers for different size of files.
 
-## PThread Producer-Consumer problem
+## Pthread Producer-Consumer problem
 In this project, you will be given some Items, each Item contains an opcode, a key and a value. The producer and consumer are responsible to perform a transform function on the Item’s value respectively. Different transform functions are performed based on the Item’s opcode.
 <img width="876" alt="image" src="https://github.com/EvanPai/NTHU-CS342301-Operating-Systems-2023/assets/84391176/76e716a6-9b43-4654-8483-33c218ec2156">
 
